@@ -4,3 +4,4 @@ git add comandos.txt
 git commit -m "comandos git"
 git rm "Ejecucion Presupuestal de la Nacion.ipynb"
 git add .
+git commit -am "Actualizando archivos del comando"
