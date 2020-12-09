@@ -1,0 +1,2 @@
+cd 'C:\Users\VEW0213\Documents\BillyWalker\Python\Estudiante\Alejandro'
+git config --global alias.s 'status -s -b'
