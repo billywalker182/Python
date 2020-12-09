@@ -2,4 +2,5 @@ cd 'C:\Users\VEW0213\Documents\BillyWalker\Python\Estudiante\Alejandro'
 git config --global alias.s 'status -s -b'
 git add comandos.txt
 git commit -m "comandos git"
-
+git rm "Ejecucion Presupuestal de la Nacion.ipynb"
+git add .
