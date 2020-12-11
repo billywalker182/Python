@@ -1,0 +1,2 @@
+conda install -c anaconda pyparsing
+%config IPCompleter.greedy = True
