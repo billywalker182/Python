@@ -10,7 +10,7 @@
 * Funciones en Python
 * Argumentos, Variables y Lambdas
 * Ejercicios
-## Estructuras de Datos con Python
+### Estructuras de Datos con Python
 * Listas en Python
 * Bucles para Recorrer Listas
 * Tupla
